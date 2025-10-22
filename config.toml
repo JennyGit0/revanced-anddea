@@ -27,7 +27,7 @@ version = "8.30.54"
 included-patches = "'Disable music video in album'"
 
 [GooglePhotos]
-enable = false
+enabled = false
 build-mode = "both"
 arch = "both"
 version = "auto"
