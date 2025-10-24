@@ -1,6 +1,6 @@
 {
-  "version": "v20.21.37 (patches 3.14.0)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/JennyGit0/rvx/releases/download/1/xd-youtube-revanced-magisk-v20.21.37-all.zip",
+  "version": "v20.14.43 (patches 3.14.0)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/JennyGit0/rvx/releases/download/2/xd-youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/JennyGit0/rvx/update/build.md"
 }
